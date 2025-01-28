@@ -1,3 +1,2 @@
-#This file contains steps that were learned during git training.
+#Steps to learn python programming in intial stages of coding which will help better in the future
 
-#Step 1: 
